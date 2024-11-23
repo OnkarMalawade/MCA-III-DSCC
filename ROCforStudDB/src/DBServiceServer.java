@@ -1,5 +1,4 @@
 import java.rmi.Naming;
-import java.rmi.*;
 import java.rmi.registry.LocateRegistry;
 
 public class DBServiceServer {
